@@ -7,11 +7,6 @@ This is a Java-based game inspired by the popular "Plants vs. Zombies" series. T
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Game Mechanics](#game-mechanics)
-- [Classes Overview](#classes-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
